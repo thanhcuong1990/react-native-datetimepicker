@@ -42,6 +42,7 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
+!debug.keystore
 
 # Editor config
 .vscode
